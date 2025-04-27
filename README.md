@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Imran-Akond
 - 👀 I’m interested in Gaming and Web development and Coding.
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me imranakond09@gmail.com
 
 <!---
