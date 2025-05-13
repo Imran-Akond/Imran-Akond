@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Imranul haque
+- 👋 Hi, I’m Imranul Haque
 - 👀 I’m interested in Data Analysis and Coding.
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me imranakond09@gmail.com
