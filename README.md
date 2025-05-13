@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Coding.
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me imranakond09@gmail.com
-BBA Student in Accounting and Information System
-Aspiring Researcher
-Tech Enthusiast
-Passionate About Accounting, Information Systems, and Innovation.
+- BBA Student in Accounting and Information System
+- Aspiring Researcher
+- Tech Enthusiast
+- Passionate About Accounting, Information Systems, and Innovation.
